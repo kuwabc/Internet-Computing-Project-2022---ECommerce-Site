@@ -1,5 +1,5 @@
 # Internet-Computing-Project-2022---ECommerce-Site
-MSU 2022 Group Project - ECommerce Website
+MSU 2021 Group Project - ECommerce Website
 
 # Project Summary
 In Spring 2021, this project was used to test our competency in creating a simple website that would demonstrate our understanding in front-end design with some back end contents. 
